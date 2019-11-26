@@ -23,6 +23,7 @@
  	sudo apt-get -y install python-serial
  	sudo apt-get -y install python-numpy
  	sudo apt-get -y install python-pygame
+ 	sudo apt-get -y install git
 
 # 	6) Copy project:
 	cd ~
@@ -42,3 +43,5 @@
 
 # 	12) Set Volume
 # 	alsamixer && mount -o remount,rw / && alsactl store
+
+#   13) https://medium.com/swlh/make-your-raspberry-pi-file-system-read-only-raspbian-buster-c558694de79
